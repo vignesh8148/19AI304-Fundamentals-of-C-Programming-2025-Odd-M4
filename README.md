@@ -1,5 +1,5 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
-# Name : VIgnesh k
+# Name : VIGNESH K
 # Register no : 212225240183
 # IAPR-4- Module 4 - FoC
 ## 7. Implementation of Functions.
