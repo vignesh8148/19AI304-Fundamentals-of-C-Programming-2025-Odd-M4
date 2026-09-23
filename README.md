@@ -1,6 +1,6 @@
 # 19AI304-Fundamentals-of-C-Programming-2025-Odd-M4
-# Name : VIKASH S
-# Register no : 212225040490
+# Name : VIgnesh k
+# Register no : 212225240183
 # IAPR-4- Module 4 - FoC
 ## 7. Implementation of Functions.
 ## 8. Implementation of passing parameters.
